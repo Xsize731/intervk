@@ -1,0 +1,4 @@
+main.py - скрипт с решение, создает файл submission.csv < br/>
+random_forest_model.pkl - обученная модель случайного леса< br/>
+requirements.txt - файл с библиотеками< br/>
+test.ipynb - блокнот jupyter, в нем визуализировал, выделял признаки и обучал модель
