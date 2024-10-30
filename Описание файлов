@@ -2,3 +2,4 @@ main.py - скрипт с решение, создает файл submission.csv
 random_forest_model.pkl - обученная модель случайного леса
 requirements.txt - файл с библиотеками
 test.ipynb - блокнот jupyter, в нем визуализировал, выделял признаки и обучал модель
+intervk.zip - архив с решением
